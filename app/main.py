@@ -13,7 +13,7 @@ import google.generativeai as genai
 import requests
 from bs4 import BeautifulSoup
 import json
-from .sentiment import FinBERTSentiment
+from sentiment import FinBERTSentiment
 import logging
 import numpy as np
 from pathlib import Path
