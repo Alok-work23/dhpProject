@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 from tqdm import tqdm
-from .sentiment import FinBERTSentiment
+from sentiment import FinBERTSentiment
 
 
 DATA_DIR = os.path.join(os.path.dirname(__file__), "data")
