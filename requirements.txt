@@ -3,4 +3,8 @@ uvicorn
 transformers
 pandas
 torch
+google-generativeai
+google-api-core
+google-auth
+
 
